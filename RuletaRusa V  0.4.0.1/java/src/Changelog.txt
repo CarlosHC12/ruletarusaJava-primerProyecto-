@@ -1,0 +1,16 @@
+Changelog ver 0.4.0.1 [Estable]
+Nuevo nucleo de juego y sistema de habilidades implementado.
+
+.
+- ahora la vida es mas elevada, 100 / 200
+(la vida depende de la duración designada elegida al comenzar la partida).
+
+- el arma ahora hace 25 de daño por disparo.
+
+- se añadió un sistema de energía para el uso de habilidades, la energía se recarga entre rondas.
+
+- Se creo la primera habilidad del juego, 
+MAS DAÑO, la cual aumenta el daño del disparo, esta habilidad es acumulativa, y tieme un consumo de 35 pts de energía.
+
+- ahora se puede elegir el nombre de los jugadores.
+

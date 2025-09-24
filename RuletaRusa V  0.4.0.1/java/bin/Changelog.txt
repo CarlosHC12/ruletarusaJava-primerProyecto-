@@ -1,0 +1,3 @@
+Changelog ver 0.3.0.1 [Estable]
+Se añadió la posibilidad de establecer una partida mas larga o mas corta.
+El cargador del arma ahora es variable, pude tener desde 2 balas hasta 6.
